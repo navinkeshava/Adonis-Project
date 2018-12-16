@@ -1,2 +1,2 @@
-# Adonis-Project
+# EmTech-Project
 Project repository for medical project
